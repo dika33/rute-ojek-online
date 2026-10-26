@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_rute": "Rute Gojek: Gasibu/Citarum - Cicadas (RS Santo Yusup)",
+        "titik_awal": "Gasibu / Citarum (Jl. Diponegoro)",
+        "titik_akhir": "Cicadas / RS Santo Yusup (Jl. Jend. A. Yani)",
+        "jarak_km": 3.6,
+        "ongkos": 12000,
+        "waktu_tempuh": "12-15 menit",
+        "warna": "#00AA13"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.619283, -6.901203],
+          [107.626347, -6.901104],
+          [107.634299, -6.913496],
+          [107.638142, -6.911571],
+          [107.643855, -6.908455]
+        ]
+      }
+    }
+  ]
+}
